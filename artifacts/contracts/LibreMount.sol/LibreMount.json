@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "LibreMount",
+  "sourceName": "contracts/LibreMount.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212205f70dde7d125f2a0c0f448081dfa9bb3ac578a94154fedf87ec2ae7a34725b9e64736f6c63430008120033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212205f70dde7d125f2a0c0f448081dfa9bb3ac578a94154fedf87ec2ae7a34725b9e64736f6c63430008120033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
